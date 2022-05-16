@@ -1,2 +1,2 @@
 # SPM
-Swift Package Manager
+Swift Package for Netcetera iOS 3DS SDK
