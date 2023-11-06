@@ -17,8 +17,8 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "ThreeDS_SDK",
-            url: "https://merchant-plug-in.extranet.netcetera.biz/nca-348-1/readonly-dav/3dssdk-release/ios/release/2.3.74/ThreeDS_SDK.zip",
-            checksum: "523dda7ad4f57bf18452c0d85848c8edfdc8822cf1ab9407528343db61bce5ed"
+            url: "https://merchant-plug-in.extranet.netcetera.biz/nca-348-1/readonly-dav/3dssdk-release/ios/release/2.4.00/ThreeDS_SDK.zip",
+            checksum: "a92ebbdd2350484c21d4560503fe1b3a0f72d6fc477159158f0d69daf0ca66c5"
         )
     ]
 )
