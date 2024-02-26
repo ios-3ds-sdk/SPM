@@ -18,7 +18,7 @@ let package = Package(
         .binaryTarget(
             name: "ThreeDS_SDK",
             url: "https://merchant-plug-in.extranet.netcetera.biz/nca-348-1/readonly-dav/3dssdk-release/ios/release/2.4.11/ThreeDS_SDK.zip",
-            checksum: "ef5c2f9a8cac590c9d4f8450f5ca827ca5f2a69fb641f9e946933500dc918872"
+            checksum: "8e3363588cdcf4994be61c0e40cf83c99af332e1300efc48c3b2fd4c42723482"
         )
     ]
 )
